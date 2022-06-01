@@ -1,0 +1,121 @@
+[
+    {
+        "name" : "Premium Square Sunglasses",
+        "id" : 1,
+        "price" : "$32.95",
+        "styles": "sunglasses",
+        "description" : "Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious feel with subtly curved lenses. Made with lightweight TR90 plastic, these large square sunglasses have a striking layered design. The matte translucent front rim features a dark tortoiseshell overlay and dark tortoiseshell temple arms. A metal brow bar adds a modern touch. Please note, the actual pattern on eyeglasses may vary slightly from the one pictured.",
+        "available" : "Yes",
+        "model" : "1116615",
+        "frontPic" : "assets/home/sunglasses/square.png",
+        "leftPic" : "",
+        "rightPic" : "",
+        "specifications" : {
+            "range" : "55-75",
+            "prescription" : "-6.00 + 2.00",
+            "bifocal" : "No",
+            "readers" : "No",
+            "rim": "Full Rim",
+            "shape" : "square",
+            "material" : "TR",
+            "feature" : "Custom engraving, Lightweight"
+        },
+        "frameSize" : {
+            "frameWidth" : "146 mm",
+            "lensWidth" : "52 mm",
+            "bridge" : "20 mm",
+            "temple" : "142 mm",
+            "lens" : "46 mm",
+            "frameWeight" : "17 grams"
+        }
+    },
+    {
+        "name" : "Premium Cat-Eye Sunglasses",
+        "id" : 2,
+        "price" : "$39.95",
+        "styles": "catEye",
+        "description" : "Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious feel with subtly curved lenses. Made with lightweight TR90 plastic, these large square sunglasses have a striking layered design. The matte translucent front rim features a dark tortoiseshell overlay and dark tortoiseshell temple arms. A metal brow bar adds a modern touch. Please note, the actual pattern on eyeglasses may vary slightly from the one pictured.",
+        "available" : "Yes",
+        "model" : "1116615",
+        "frontPic" : "assets/home/sunglasses/catEye.png",
+        "leftPic" : "",
+        "rightPic" : "",
+        "specifications" : {
+            "range" : "55-75",
+            "prescription" : "-6.00 + 2.00",
+            "bifocal" : "No",
+            "readers" : "No",
+            "rim": "Full Rim",
+            "shape" : "square",
+            "material" : "TR",
+            "feature" : "Custom engraving, Lightweight"
+        },
+        "frameSize" : {
+            "frameWidth" : "146 mm",
+            "lensWidth" : "52 mm",
+            "bridge" : "20 mm",
+            "temple" : "142 mm",
+            "lens" : "46 mm",
+            "frameWeight" : "17 grams"
+        }
+    },
+    {
+        "name" : "Premium Tint Sunglasses",
+        "id" : 3,
+        "price" : "$29.95",
+        "styles": "square",
+        "description" : "Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious feel with subtly curved lenses. Made with lightweight TR90 plastic, these large square sunglasses have a striking layered design. The matte translucent front rim features a dark tortoiseshell overlay and dark tortoiseshell temple arms. A metal brow bar adds a modern touch. Please note, the actual pattern on eyeglasses may vary slightly from the one pictured.",
+        "available" : "Yes",
+        "model" : "1116615",
+        "frontPic" : "assets/home/sunglasses/tint.png",
+        "leftPic" : "",
+        "rightPic" : "",
+        "specifications" : {
+            "range" : "55-75",
+            "prescription" : "-6.00 + 2.00",
+            "bifocal" : "No",
+            "readers" : "No",
+            "rim": "Full Rim",
+            "shape" : "square",
+            "material" : "TR",
+            "feature" : "Custom engraving, Lightweight"
+        },
+        "frameSize" : {
+            "frameWidth" : "146 mm",
+            "lensWidth" : "52 mm",
+            "bridge" : "20 mm",
+            "temple" : "142 mm",
+            "lens" : "46 mm",
+            "frameWeight" : "17 grams"
+        }
+    },{
+        "name" : "Premium Aviator Sunglasses",
+        "id" : 4,
+        "price" : "$39.95",
+        "styles": "aviator",
+        "description" : "Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious feel with subtly curved lenses. Made with lightweight TR90 plastic, these large square sunglasses have a striking layered design. The matte translucent front rim features a dark tortoiseshell overlay and dark tortoiseshell temple arms. A metal brow bar adds a modern touch. Please note, the actual pattern on eyeglasses may vary slightly from the one pictured.",
+        "available" : "Yes",
+        "model" : "1116615",
+        "frontPic" : "assets/home/sunglasses/aviator.png",
+        "leftPic" : "",
+        "rightPic" : "",
+        "specifications" : {
+            "range" : "55-75",
+            "prescription" : "-6.00 + 2.00",
+            "bifocal" : "No",
+            "readers" : "No",
+            "rim": "Full Rim",
+            "shape" : "square",
+            "material" : "TR",
+            "feature" : "Custom engraving, Lightweight"
+        },
+        "frameSize" : {
+            "frameWidth" : "146 mm",
+            "lensWidth" : "52 mm",
+            "bridge" : "20 mm",
+            "temple" : "142 mm",
+            "lens" : "46 mm",
+            "frameWeight" : "17 grams"
+        }
+    }
+]

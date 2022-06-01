@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Safety Glasses",
+        "id" : 1,
+        "price" : "$39.95",
+        "styles": "sports",
+        "description" : "Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious feel with subtly curved lenses. Made with lightweight TR90 plastic, these large square sunglasses have a striking layered design. The matte translucent front rim features a dark tortoiseshell overlay and dark tortoiseshell temple arms. A metal brow bar adds a modern touch. Please note, the actual pattern on eyeglasses may vary slightly from the one pictured.",
+        "available" : "Yes",
+        "model" : "1116615",
+        "frontPic" : "assets/home/protective/safety.png",
+        "leftPic" : "",
+        "rightPic" : "",
+        "specifications" : {
+            "range" : "55-75",
+            "prescription" : "-6.00 + 2.00",
+            "bifocal" : "No",
+            "readers" : "No",
+            "rim": "Full Rim",
+            "shape" : "square",
+            "material" : "TR",
+            "feature" : "Custom engraving, Lightweight"
+        },
+        "frameSize" : {
+            "frameWidth" : "146 mm",
+            "lensWidth" : "52 mm",
+            "bridge" : "20 mm",
+            "temple" : "142 mm",
+            "lens" : "46 mm",
+            "frameWeight" : "17 grams"
+        }
+    },{
+        "name" : "Protective Glasses",
+        "id" : 2,
+        "price" : "$27.95",
+        "styles": "rimless",
+        "description" : "Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious feel with subtly curved lenses. Made with lightweight TR90 plastic, these large square sunglasses have a striking layered design. The matte translucent front rim features a dark tortoiseshell overlay and dark tortoiseshell temple arms. A metal brow bar adds a modern touch. Please note, the actual pattern on eyeglasses may vary slightly from the one pictured.",
+        "available" : "Yes",
+        "model" : "1116615",
+        "frontPic" : "assets/home/protective/protective.png",
+        "leftPic" : "",
+        "rightPic" : "",
+        "specifications" : {
+            "range" : "55-75",
+            "prescription" : "-6.00 + 2.00",
+            "bifocal" : "No",
+            "readers" : "No",
+            "rim": "Full Rim",
+            "shape" : "square",
+            "material" : "TR",
+            "feature" : "Custom engraving, Lightweight"
+        },
+        "frameSize" : {
+            "frameWidth" : "146 mm",
+            "lensWidth" : "52 mm",
+            "bridge" : "20 mm",
+            "temple" : "142 mm",
+            "lens" : "46 mm",
+            "frameWeight" : "17 grams"
+        }
+    },{
+        "name" : "Sports Protective Goggles",
+        "id" : 3,
+        "price" : "$45.95",
+        "styles": "sports",
+        "description" : "Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious feel with subtly curved lenses. Made with lightweight TR90 plastic, these large square sunglasses have a striking layered design. The matte translucent front rim features a dark tortoiseshell overlay and dark tortoiseshell temple arms. A metal brow bar adds a modern touch. Please note, the actual pattern on eyeglasses may vary slightly from the one pictured.",
+        "available" : "Yes",
+        "model" : "1116615",
+        "frontPic" : "assets/home/protective/sports.png",
+        "leftPic" : "",
+        "rightPic" : "",
+        "specifications" : {
+            "range" : "55-75",
+            "prescription" : "-6.00 + 2.00",
+            "bifocal" : "No",
+            "readers" : "No",
+            "rim": "Full Rim",
+            "shape" : "square",
+            "material" : "TR",
+            "feature" : "Custom engraving, Lightweight"
+        },
+        "frameSize" : {
+            "frameWidth" : "146 mm",
+            "lensWidth" : "52 mm",
+            "bridge" : "20 mm",
+            "temple" : "142 mm",
+            "lens" : "46 mm",
+            "frameWeight" : "17 grams"
+        }
+    },
+    {
+        "name" : "Protective Goggles",
+        "id" : 4,
+        "price" : "$9.95",
+        "styles": "rimless",
+        "description" : "Using advanced edging technology and high-quality materials, our premium sunglasses have a luxurious feel with subtly curved lenses. Made with lightweight TR90 plastic, these large square sunglasses have a striking layered design. The matte translucent front rim features a dark tortoiseshell overlay and dark tortoiseshell temple arms. A metal brow bar adds a modern touch. Please note, the actual pattern on eyeglasses may vary slightly from the one pictured.",
+        "available" : "Yes",
+        "model" : "1116615",
+        "frontPic" : "assets/home/protective/goggles.png",
+        "leftPic" : "",
+        "rightPic" : "",
+        "specifications" : {
+            "range" : "55-75",
+            "prescription" : "-6.00 + 2.00",
+            "bifocal" : "No",
+            "readers" : "No",
+            "rim": "Full Rim",
+            "shape" : "square",
+            "material" : "TR",
+            "feature" : "Custom engraving, Lightweight"
+        },
+        "frameSize" : {
+            "frameWidth" : "146 mm",
+            "lensWidth" : "52 mm",
+            "bridge" : "20 mm",
+            "temple" : "142 mm",
+            "lens" : "46 mm",
+            "frameWeight" : "17 grams"
+        }
+    }
+    
+        
+]
