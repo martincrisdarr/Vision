@@ -19,7 +19,7 @@ function Navbar() {
                 <Link to='/category'><li>Category</li></Link>
                 <Link to='/location'><li>Location</li></Link>
                 <Link to='/faq'><li>FAQ</li></Link>
-                <li className='py-2 px-8 signIn text-white rounded-xl'>Sign In</li>
+                <Link to='/login'><li className='py-2 px-8 signIn text-white rounded-xl'>Sign In</li></Link>
             </ul>
             <BiMenu className={!nav ? 'text-3xl flex md:hidden cursor-pointer transition duration-500 ' : 'text-3xl flex md:hidden cursor-pointer rotate-180 transition duration-500'} onClick={handleClick} />
         </div>

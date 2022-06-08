@@ -20,7 +20,7 @@ function Carousel() {
               type="button"
               data-bs-target="#carouselExampleCaptions"
               data-bs-slide-to="1"
-              className='hidden'
+            className='hidden'
               aria-label="Slide 2"
             ></button>
             <button

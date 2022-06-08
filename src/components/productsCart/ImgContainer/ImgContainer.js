@@ -1,24 +1,19 @@
 import React, { useState } from 'react'
 import LittleImgContainer from './LittleImgContainer'
-import front from '../../../assets/products/front.png'
-import side from '../../../assets/products/side.png'
-import upside from '../../../assets/products/upside.png'
 function ImgContainer() {
-  const [objetos, setObjetos] = useState([{"pic" : front}, {"pic" : side}, {"pic" : upside}])
-  const [picked, setPicked] = useState({})
-  const handleClick = () =>{
-    setPicked(objetos.pic )
-    console.log('holamundo')
-  }
+  const photos = [{'id' : 1 , 'img' : '../../../assets/products/front.png'},
+  {'id' : 2, 'img' : '../../../assets/products/side.png'},
+  {'id': 3 , 'img' : '../../../assets/products/upside.png'}]
+  const [picked, setPicked] = useState('')
   return (
     <>
       <div className='w-[300px]'>
-        <img src={front} alt=""  className='shadow-lg  py-16 px-6 mb-6 w-full' />
+        <img src={picked == '' ? '../../../assets/products/front.png' : picked } alt=""  className='shadow-lg h-[230px] object-fit py-16 px-6 mb-6 w-full' />
         <div className='flex gap-6 w-full justify-center mt-6 mb-16'>
          {
-           objetos.map((objeto) =>{
+           photos.map((objeto) =>{
              return (
-               <LittleImgContainer onClick={handleClick} photo={objeto.pic} />
+               <LittleImgContainer choosenPhoto={() => setPicked(objeto.img)} photo={objeto.img} key={objeto.id} />
              )
            })
          }
